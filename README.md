@@ -31,8 +31,8 @@ FastFileServer 是一个基于 Python 的轻量级高速文件传输服务器，
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/fastfileserver.git
-cd fastfileserver
+git clone https://github.com/R1tain/file-web-Transmission.git
+cd file-web-Transmission
 ```
 2. 确保拥有执行权限：
 
